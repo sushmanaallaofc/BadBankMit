@@ -1,6 +1,6 @@
-# Sushma's Bank Bank
+# Sushma's Bad Bank
 
-Sushma's Bank Bank is a web application built using React, Node.js, and MongoDB to provide banking services to customers. The project aims to help individuals who require a convenient and reliable way to manage their finances.
+Sushma's Bad Bank is a web application built using React, Node.js, and MongoDB to provide banking services to customers. The project aims to help individuals who require a convenient and reliable way to manage their finances.
 
 ## Motivation
 
@@ -11,9 +11,9 @@ The motivation behind building this project is to create a user-friendly platfor
 To run this project, please follow these steps:
 
 1. Clone this repository by running the following command in your terminal:
-    git clone https://github.com/your-username/sushmas-bank-bank.git
+    git clone https://github.com/sushmanaallaofc/BadBankMit.git
 2. Change your working directory to the cloned repository:
-    cd sushmas-bank-bank
+    cd BadBankMit
 3. Install the necessary dependencies:
     npm install
 4. Start the application:
@@ -21,7 +21,28 @@ To run this project, please follow these steps:
 
 ## Screenshots
 
-![Sushma's Bank Bank in action](/screenshots/sushmas-bank-bank.png)
+Sushma's Bad Bank in action
+![Home Page:](Screenshot%20(6).png)
+![Create_Account Page:](Screenshot%20(7).png)
+![Create_Account Page:](Screenshot%20(8).png)
+![Create_Account Page:](Screenshot%20(9).png)
+![Login Page:](Screenshot%20(10).png)
+![Login Page:](Screenshot%20(11).png)
+![Deposit Page:](Screenshot%20(12).png)
+![Deposit Page:](Screenshot%20(13).png)
+
+![Balance Page:](Screenshot%20(14).png)
+![Balance Page:](Screenshot%20(15).png)
+
+![Withdraw Page:](Screenshot%20(16).png)
+![Withdraw Page:](Screenshot%20(17).png)
+
+![Balance Page:](Screenshot%20(18).png)
+![Balance Page:](Screenshot%20(19).png)
+
+![AllData Page:](Screenshot%20(20).png)
+
+
 
 ## Technology Used
 
@@ -32,7 +53,7 @@ To run this project, please follow these steps:
 
 ## Features
 
-Sushma's Bank Bank currently has the following features:
+Sushma's Bad Bank currently has the following features:
 
 - Create Account: Users can create an account by providing their personal details.
 - Login: Users can log in to their account using their email address and password.
